@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/6/25 15:07:28。
+     1>项目“D:\VC_Project\DesignPattern\Prototype\Prototype.vcxproj”在节点 5 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Prototype.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Prototype.cpp main.cpp
+         main.cpp
+     1>d:\vc_project\designpattern\prototype\main.cpp(27): warning C4101: “p2”: 未引用的局部变量
+         Prototype.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VC_Project\DesignPattern\Builder\Debug\Prototype.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Prototype.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\VC_Project\DesignPattern\Builder\Debug\Prototype.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VC_Project\DesignPattern\Builder\Debug\Prototype.lib" /MACHINE:X86 Debug\Prototype.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\Prototype.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Prototype.exe.embed.manifest" /manifest Debug\Prototype.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Prototype.vcxproj -> D:\VC_Project\DesignPattern\Builder\Debug\Prototype.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Prototype.unsuccessfulbuild”。
+         正在对“Debug\Prototype.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\VC_Project\DesignPattern\Prototype\Prototype.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.22
